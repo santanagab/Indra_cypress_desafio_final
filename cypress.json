@@ -1,0 +1,5 @@
+{
+    "reporter": "cypress-mochawesome-reporter",
+    "viewportHeight": 880,
+    "viewportWidth": 1280
+}
